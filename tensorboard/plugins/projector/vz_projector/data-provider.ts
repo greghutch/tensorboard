@@ -23,7 +23,7 @@ import {
 import * as logging from './logging';
 import * as util from './util';
 
-const NUM_COLORS_COLOR_MAP = 50;
+const NUM_COLORS_COLOR_MAP = 2000;
 const MAX_SPRITE_IMAGE_SIZE_PX = 8192;
 export const METADATA_MSG_ID = 'metadata';
 export const TENSORS_MSG_ID = 'tensors';
